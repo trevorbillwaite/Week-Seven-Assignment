@@ -1,5 +1,5 @@
 # Framework for Conway's game of life
-# Daniel Neumann
+# Trevor Waite
 # CIS 125 FA2104
 
 # Functions
